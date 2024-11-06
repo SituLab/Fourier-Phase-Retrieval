@@ -1,7 +1,6 @@
 # Fourier phase retrieval using physics-enhanced deep learning
-
-## Paper 
 This is torch demo implementation of paper including ipynb (Fourier phase retrieval using physics-enhanced deep learning). You may get more information in the original paper：
+## Paper 
 
 Zike Zhang, Fei Wang, Qixuan Min, Ying Jin, and Guohai Situ, "Fourier phase retrieval using physics-enhanced deep learning," Opt. Lett. 49, 6129-6132 (2024)
 Paper Link: https://doi.org/10.1364/OL.537792
