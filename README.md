@@ -9,11 +9,10 @@ Paper Link: https://doi.org/10.1364/OL.537792
 
 ## Framework
  Our method includes two steps: First, we leverage the image formation model of the FPR to guide the generation of data for network training in a self-supervised manner. Second, we exploit the physical model to fine-tune the pre-trained model to impose the physics-consistency constraint on the network prediction.
+![image](https://github.com/user-attachments/assets/0187ef58-4b78-4d41-88a1-5bee6f278405)
 
-
-引用 Fig1.pdf
 
 ## Result
  Our method provides the best image quality, more results can be found in paper and supplement.
- 
-引用 Fig4.pdf
+![image](https://github.com/user-attachments/assets/1670655f-ee12-4469-969e-32aed283f8aa)
+
